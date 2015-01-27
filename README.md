@@ -1,0 +1,2 @@
+# SQLServerMonitor
+monitor sql server
